@@ -1,0 +1,1 @@
+myLastButOne = last . init
